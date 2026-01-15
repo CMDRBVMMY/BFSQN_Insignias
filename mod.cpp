@@ -1,0 +1,10 @@
+name = "Blackforce Squadron Mod Hub";
+author = "Blackforce Squadron";
+overview = "Shared hub mod for Blackforce Squadron QoL tweaks and content.";
+overviewPicture = "mod.paa";
+picture = "mod.paa";
+logo = "mod.paa";
+logoOver = "hover.paa";
+logoSmall = "text_logo.paa";
+actionName = "WEBSITE";
+action = "https://github.com/Black-Ops-2-543/BFSQN_Hub";

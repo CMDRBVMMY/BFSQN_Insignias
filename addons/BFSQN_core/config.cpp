@@ -10,7 +10,7 @@ class CfgPatches
 
         requiredAddons[] =
         {
-            "cba_main"     // Hard dependency on CBA
+            "cba_main"
         };
 
         units[] = {};
